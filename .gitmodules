@@ -1,0 +1,3 @@
+[submodule "dyconnmap"]
+	path = dyconnmap
+	url = git@github.com:makism/dyconnmap.git
