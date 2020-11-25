@@ -1,2 +1,5 @@
-# dyconnmap-ui
-dyconnmap + BrainVoyaer = zap 
+dyconnmap + BrainVoyaer = ⚡ 
+
+- - - 
+
+A UI for BrainVoyager to invoke dyconnmap.
